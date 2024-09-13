@@ -1,0 +1,140 @@
+5g  {doc16}
+accessibility  {doc9}
+advanced  {doc25}
+advancements  {doc22}
+advances  {doc10}
+agricultural  {doc10}
+analysis  {doc21, doc20, doc3}
+analytics  {doc8, doc18, doc11, doc1}
+and  {doc9, doc8, doc10, doc2, doc4, doc1, doc19, doc21, doc7, doc6, doc25, doc20, doc16, doc12, doc5, doc23, doc13}
+are  {doc21, doc14}
+artificial  {doc2, doc22}
+automates  {doc12}
+automation  {doc15}
+autonomous  {doc2}
+behavior  {doc8}
+benefits  {doc23}
+big  {doc8}
+blockchain  {doc7}
+business  {doc21}
+change  {doc3}
+climate  {doc3}
+cloud  {doc13}
+collection  {doc12}
+combat  {doc3}
+complex  {doc25, doc4}
+computing  {doc25, doc4, doc13}
+connectivity  {doc16}
+consumer  {doc8}
+critical  {doc14}
+cryptocurrency  {doc7}
+cybersecurity  {doc14}
+data  {doc4, doc21, doc7, doc14, doc25, doc12, doc9, doc24, doc17, doc6, doc20, doc23, doc13, doc8, doc15, doc19, doc16, doc22, doc11, doc2, doc18, doc10, doc1, doc3, doc5}
+decisions  {doc24}
+digital  {doc14}
+driven  {doc24, doc15, doc6}
+drives  {doc2}
+e-commerce  {doc20}
+education  {doc18}
+educational  {doc6}
+energy  {doc24}
+engineering  {doc10}
+enhances  {doc7, doc16, doc4}
+environmental  {doc17}
+environments  {doc5}
+evolves  {doc22}
+expand  {doc18}
+experiences  {doc20, doc6}
+farming  {doc17}
+financial  {doc1}
+fitness  {doc19}
+flow  {doc21}
+from  {doc10, doc23}
+gain  {doc24}
+genetic  {doc10}
+global  {doc11}
+green  {doc3}
+health  {doc19}
+healthcare  {doc9, doc22, doc1}
+helps  {doc20, doc17}
+home  {doc5}
+immersive  {doc6}
+impacts  {doc17}
+improve  {doc8}
+in  {doc1, doc19, doc14, doc25, doc22}
+increases  {doc9}
+influence  {doc11}
+insights  {doc8, doc23}
+intelligence  {doc2, doc22}
+interpretation  {doc25}
+iot  {doc5}
+learning  {doc18, doc12}
+machine  {doc12}
+management  {doc9, doc22, doc13}
+manufacturing  {doc15}
+marketing  {doc11}
+measures  {doc14}
+media  {doc11}
+medical  {doc10}
+mobile  {doc16}
+models  {doc7, doc1}
+momentum  {doc24}
+monitors  {doc19}
+offers  {doc6}
+online  {doc20, doc18}
+opportunities  {doc18}
+optimize  {doc21}
+optimizes  {doc1}
+physics  {doc25}
+planning  {doc23}
+platforms  {doc18}
+problems  {doc25}
+processes  {doc21, doc15}
+processing  {doc2, doc12}
+projects  {doc24}
+protecting  {doc14}
+provides  {doc13}
+quantum  {doc4}
+rapidly  {doc22}
+real  {doc19}
+reality  {doc6}
+reduce  {doc17}
+remotely  {doc9}
+renewable  {doc24}
+research  {doc10}
+revolutionizes  {doc15}
+robotic  {doc15}
+routine  {doc12}
+scalable  {doc13}
+science  {doc1}
+secures  {doc7}
+security  {doc4}
+shopping  {doc20}
+significantly  {doc17}
+simulations  {doc4}
+smart  {doc2, doc23}
+social  {doc11}
+solutions  {doc3, doc13}
+speeds  {doc16}
+storage  {doc8, doc13}
+strategies  {doc11}
+streamline  {doc20}
+sustainable  {doc17}
+tackles  {doc25}
+tasks  {doc12}
+techniques  {doc21}
+technology  {doc19, doc16, doc3, doc5, doc23}
+telemedicine  {doc9}
+through  {doc3}
+time  {doc19}
+to  {doc21, doc18}
+transactions  {doc7, doc14}
+transfer  {doc16}
+transforms  {doc5}
+urban  {doc5, doc23}
+used  {doc21}
+utilize  {doc18}
+vehicles  {doc2}
+virtual  {doc6}
+wearable  {doc19}
+with  {doc24, doc22}
